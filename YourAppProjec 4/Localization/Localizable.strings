@@ -1,0 +1,13 @@
+
+/* 
+  Localizable.strings
+  YourApp
+
+  Created by [Your Name] on [Creation Date].
+*/
+
+// Example localized strings
+"hello_world" = "Hello, World!";
+"welcome_message" = "Welcome to Your App";
+
+// Add more localized strings as needed
